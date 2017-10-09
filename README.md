@@ -15,7 +15,7 @@ chmod +x openvpn-installer.sh
 ```
 Then run it :
 
-`./openvpn-install.sh`
+`./openvpn-installer.sh`
 
 The first time you run it, you'll have to follow the assistant and answer a few questions to setup your VPN server.
 
