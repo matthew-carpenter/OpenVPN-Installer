@@ -30,3 +30,22 @@ This script is based on the great work of [Nyr and its contributors](https://git
 Then add Secure DNS by me.
 
 [Donate link – PayPal](https://www.paypal.me/WaelIsa)
+
+## DNS list
+1) Current system resolvers
+
+2) Google
+
+3) OpenDNS
+
+4) NTT
+
+5) Hurricane Electric
+
+6) Verisign
+
+7) AdGuard DNS (Can block ADS)
+
+8) Comodo Secure DNS (malware, phishing sites and scam sites)
+
+9) Norton ConnectSafe (malware, phishing sites and scam sites)
