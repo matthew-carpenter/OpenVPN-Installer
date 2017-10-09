@@ -25,6 +25,8 @@ When OpenVPN is installed, you can run the script again, and you will get the ch
 - Remove a client
 - Uninstall OpenVPN
 
-This script is based on the great work of [Nyr and its contributors](https://github.com/Nyr/openvpn-install) Then update DNS by me.
-I just add 2 Secure DNS.
+This script is based on the great work of [Nyr and its contributors](https://github.com/Nyr/openvpn-install)
+
+Then add Secure DNS by me.
+
 [Donate link – PayPal](https://www.paypal.me/WaelIsa)
