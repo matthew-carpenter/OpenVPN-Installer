@@ -27,8 +27,6 @@ When OpenVPN is installed, you can run the script again, and you will get the ch
 
 This script is based on the great work of [Nyr and its contributors](https://github.com/Nyr/openvpn-install)
 
-Then add Secure DNS by me.
-
 [Donate link – PayPal](https://www.paypal.me/WaelIsa)
 
 ## DNS list
